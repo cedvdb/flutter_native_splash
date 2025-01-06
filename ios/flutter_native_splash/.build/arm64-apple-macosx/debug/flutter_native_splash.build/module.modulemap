@@ -1,0 +1,4 @@
+module flutter_native_splash {
+    header "/Users/cedvdb/Development/tests/flutter_native_splash/ios/flutter_native_splash/.build/arm64-apple-macosx/debug/flutter_native_splash.build/flutter_native_splash-Swift.h"
+    requires objc
+}

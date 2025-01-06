@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/cedvdb/Development/tests/flutter_native_splash/ios/flutter_native_splash/.build/arm64-apple-macosx/debug/flutter_native_splash.build/master.swiftdeps"
+  },
+  "/Users/cedvdb/Development/tests/flutter_native_splash/ios/flutter_native_splash/Sources/flutter_native_splash/FlutterNativeSplashPlugin.swift": {
+    "dependencies": "/Users/cedvdb/Development/tests/flutter_native_splash/ios/flutter_native_splash/.build/arm64-apple-macosx/debug/flutter_native_splash.build/FlutterNativeSplashPlugin.d",
+    "object": "/Users/cedvdb/Development/tests/flutter_native_splash/ios/flutter_native_splash/.build/arm64-apple-macosx/debug/flutter_native_splash.build/FlutterNativeSplashPlugin.swift.o",
+    "swiftmodule": "/Users/cedvdb/Development/tests/flutter_native_splash/ios/flutter_native_splash/.build/arm64-apple-macosx/debug/flutter_native_splash.build/FlutterNativeSplashPlugin~partial.swiftmodule",
+    "swift-dependencies": "/Users/cedvdb/Development/tests/flutter_native_splash/ios/flutter_native_splash/.build/arm64-apple-macosx/debug/flutter_native_splash.build/FlutterNativeSplashPlugin.swiftdeps"
+  }
+}
