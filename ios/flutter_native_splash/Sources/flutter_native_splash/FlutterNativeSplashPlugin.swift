@@ -1,10 +1,10 @@
 import Flutter
 import UIKit
 
-public class SwiftFlutterNativeSplashPlugin: NSObject, FlutterPlugin {
+public class FlutterNativeSplashPlugin: NSObject, FlutterPlugin {
     public static func register(with registrar: FlutterPluginRegistrar) {
         let channel = FlutterMethodChannel(name: "flutter_native_splash", binaryMessenger: registrar.messenger())
-        let instance = SwiftFlutterNativeSplashPlugin()
+        let instance = FlutterNativeSplashPlugin()
         registrar.addMethodCallDelegate(instance, channel: channel)
     }
 
